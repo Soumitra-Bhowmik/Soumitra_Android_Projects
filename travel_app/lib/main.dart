@@ -21,8 +21,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Molay App',
       //home: HomePage(),
-      //home: SplashScreen(),
-      home: SignUp(),
+      home: SplashScreen(),
+      //home: SignUp(),
     );
   }
 }
